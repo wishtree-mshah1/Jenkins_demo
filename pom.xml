@@ -14,13 +14,6 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
-
-    <dependency>
-			<groupId>jasper-fonts</groupId>
-			<artifactId>arial-unicode</artifactId>
-			<version>1.0.0</version>
-		</dependency>
-    
   </dependencies>
   <build>
     <finalName>jenkins_deml</finalName>
